@@ -16,9 +16,9 @@
 ---
 
 ## 🧑‍💻 About Me
-👤 Name: Mohamed Ahmed Mohamed Abo El-Hadid.
+👤 Name: kareem helmy mahmoud
 
-🎯 I'm a **Junior Front-End Engineer** passionate about building responsive and modern web applications.
+🎯 I'm a **Junior full-stack Engineer** passionate about building responsive and modern web applications.
   
 💡 Currently learning advanced **JavaScript**, **TypeScript**, **React**, and exploring **Python** and **AI tools like ChatGPT** to boost productivity and learning.
   
@@ -28,30 +28,28 @@
 
 🏫 University: Faculty of Arts – Beni Suef University.
 
-🎯 Goal:  Goal: Become a professional software engineer and cybersecurity specialist.
+🎯 Goal:  Goal: Become a professional software engineer and ai specialist.
 
 💻 Hobbies: Programming – Video Editing – Motion Graphics – Learning Technology.
 
 🧠 Skills: Self-learning – Analytical Thinking – Design Software Proficiency.
 
-🛠️ Fields I'm Developing In: Cybersecurity and Web developer.
+🛠️ Fields I'm Developing In: ai and Web developer.
 
-👨‍💻 As a Almdrasa student, I'm constantly learning and exploring new technologies to improve my skills.
 
----
 **Learning programming and growing my skills step-by-step.**  
 Currently focused on:
 
-- 🐍 Python basics and problem solving
-- 🎨 Frontend development (HTML, CSS, JavaScript, React.js)
+- 🐍 c++ basics and problem solving
+- 🎨 Frontend development (HTML, CSS, JavaScript,Bootstrap,React.js)
 
 **I believe in continuous learning, practice, and real-world projects.**  
 🚀 Open to collaborations, projects, and new challenges.
 
 ## 📚 Current Learning Path:
-- Deepen my knowledge in Python
+- Deepen my knowledge in c++
 - Build frontend projects using HTML, CSS, JavaScript, and React.js
-- Step by step towards cybersecurity specialist in the future.
+  - Step by step towards AI specialist in the future.
 
 
 ## 🚀 Tech Stack
@@ -73,7 +71,7 @@ Currently focused on:
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/mohamedaboalhadied2682006" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> <a href="mailto:MohamedAboElhadied@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> <a href="https://www.facebook.com/share/18XW9JZzAF/" target="_blank"> <img src="[https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white](https://www.facebook.com/kareem.helmy.98837)"/> </a> <a href="https://x.com/Aboalhdied?t=t_vOsvgXo8uiQDj5ji9M5w&s=08" target="_blank"> <img src="https://img.shields.io/badge/-Twitter(X)-000000?style=for-the-badge&logo=GitHub&logoColor=white"/> </a>
+<a href="https://www.linkedin.com/in/kareem-helmy-268629255/" target="_blank"> <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/> </a> <a href="mailto:MohamedAboElhadied@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/-Email-D44638?style=for-the-badge&logo=Gmail&logoColor=white"/> </a> <a href="https://www.facebook.com/share/18XW9JZzAF/" target="_blank"> <img src="[https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=Facebook&logoColor=white](https://www.facebook.com/kareem.helmy.98837)"/> </a> <a href="https://x.com/Aboalhdied?t=t_vOsvgXo8uiQDj5ji9M5w&s=08" target="_blank"> <img src="https://img.shields.io/badge/-Twitter(X)-000000?style=for-the-badge&logo=GitHub&logoColor=white"/> </a>
 ---
 
 > “Keep pushing forward. Every line of code brings you closer to mastery.” 💪
