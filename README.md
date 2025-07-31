@@ -2,9 +2,7 @@
 <h3 align="center">.NET Fullstack & React Frontend Developer | CS Student @ Zagazig University</h3>
 
 <p align="center">
-  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAUIS7NS/coding-freak.gif" width="300" alt="Coding GIF">
-
-
+  <img src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAUIS7NS/ke17ZwdGBToddi8pDm48kPoswlzjSVMMS-SxOp7CV59BZw-zPZw8PoUwUWZ0Q5swglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqToaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" width="400" alt="Coding GIF">
 </p>
 
 ---
