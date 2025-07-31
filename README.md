@@ -2,7 +2,8 @@
 <h3 align="center">.NET Fullstack & React Frontend Developer | CS Student @ Zagazig University</h3>
 
 <p align="center">
-<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="400" alt="Laptop typing gif">
+<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="400" alt="Multi screen dev gif">
+
 
 </p>
 
