@@ -7,7 +7,7 @@
 
 ---
 
-- 🎓 I'm a 3rd year student at **Faculty of Computers and Informatics – Zagazig University**  
+- 🎓 I'm a 4th year student at **Faculty of Computers and Informatics – Zagazig University**  
 - 📚 I’m currently learning **.NET, React, and Data Structures**  
 - 👨‍💻 All of my projects are available at: [GitHub/kareem-helmi](https://github.com/kareem-helmi)  
 - 💬 Ask me about **React, .NET, C#, or SQL Server**  
